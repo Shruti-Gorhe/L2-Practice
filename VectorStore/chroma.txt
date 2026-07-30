@@ -1,0 +1,11 @@
+Chroma
+
+Chroma is a practical, beginner-friendly VectorStore, ideal for most LangChain workflows.
+
+It makes storing embeddings and performing fast semantic similarity search simple, with minimal setup.
+
+Perfect for prototyping, local AI assistants, and small-to-medium scale RAG systems.
+
+Integrates seamlessly with LangChain retrievers, chains, and agents for meaning-based document querying.
+
+In this section, we'll embed text with a HuggingFace model, store it in Chroma, and run a similarity search to see real RAG retrieval in action. 
